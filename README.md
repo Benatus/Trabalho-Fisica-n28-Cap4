@@ -7,7 +7,11 @@ O programa consegue descobrir qualquer variavel ausente dentro do quatro dados.
 Porém a parte que resolve a verificação se a pedra caiu antes, bateu na parede do rochedo, caiu em cima ou caiu depois do rochedo ainda não foi concluida devido a suia complexidade
 ---
 
-## 📸 Preview da interface
+## 📸 Preview da interface tela Principal
+
+<img src="/tela principal.png" alt="Calculadora em funcionamento" width="400"/>
+
+## 📸 Preview da interface tela secundaria
 
 <img src="/tela.png" alt="Calculadora em funcionamento" width="400"/>
 
